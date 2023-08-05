@@ -1,0 +1,30 @@
+.head{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(114,59,203);
+background: linear-gradient(90deg, rgba(114,59,203,1) 0%, rgba(233,109,216,1) 42%, rgba(0,212,255,1) 100%);
+    color: rgb(17, 1, 1);
+    position: relative;
+    margin-top: 5px;
+    height: 60px;
+bottom: 20px;
+
+
+}
+.navbar li{
+    list-style: none;
+padding-left: px;
+    display: inline;
+    
+}
+.navbar h3{
+    display: inline;
+    margin-left: 100px;
+    position: relative;
+    bottom: 15px;
+    
+}
+.navbar{
+    background-color: aqua;
+    bottom: 20px;
+}
